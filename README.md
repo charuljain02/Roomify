@@ -7,11 +7,15 @@ This project demonstrates clean routing, responsive UI, and component-based arch
 
 ## 📹 Demo
 
+<<<<<<< HEAD
 ### Room View
 ![Room Image](room.png)
 
 ### Code View
 ![Code Image](code.png)
+=======
+
+>>>>>>> f3abb392320f6caeda099ce69fce0e0649364d9e
 
 
 ---
